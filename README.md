@@ -5,7 +5,7 @@ This project is a basic TODO list application built in Kotlin, utilizing an SQLi
 1. *Clone the Repository:*
    - Clone the project repository from the provided link.
 
-   bash
+   bash:
    git clone https://github.com/Keerthi-1708/task
    
 
